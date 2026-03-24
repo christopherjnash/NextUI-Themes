@@ -1,6 +1,6 @@
 # Art Book Outline NextUI Theme
 
-<img width=512px src="preview.png">
+<p align="center"><img width=512px src="preview.png"></p>
 
 ## Acknowledgment
 - I modified the Art Book NextUI Theme by Timothy Bueno which can be found on [GitHub](https://github.com/Leviathanium/NextUI-Themes/raw/main/Packages/themes/ArtBookNextUI.theme.zip) as well at the [NextUI Themes repo](https://github.com/Leviathanium/NextUI-Themes?tab=readme-ov-file). 
